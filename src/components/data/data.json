@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Alice Johnson",
+    "email": "alice@example.com",
+    "phone": "123-456-7890",
+    "status": "New",
+    "source": "Website",
+    "createdDate": "2025-08-01"
+  },
+  {
+    "name": "Bob Smith",
+    "email": "bob@example.com",
+    "phone": "987-654-3210",
+    "status": "In Progress",
+    "source": "Referral",
+    "createdDate": "2025-08-02"
+  },
+  {
+    "name": "Charlie Lee",
+    "email": "charlie@example.com",
+    "phone": "555-555-5555",
+    "status": "Converted",
+    "source": "Ad Campaign",
+    "createdDate": "2025-08-03"
+  },
+  {
+    "name": "Diana Wells",
+    "email": "diana@example.com",
+    "phone": "222-333-4444",
+    "status": "New",
+    "source": "Social Media",
+    "createdDate": "2025-08-04"
+  },
+  {
+    "name": "Ethan White",
+    "email": "ethan@example.com",
+    "phone": "666-777-8888",
+    "status": "In Progress",
+    "source": "Email Campaign",
+    "createdDate": "2025-08-05"
+  }
+]
